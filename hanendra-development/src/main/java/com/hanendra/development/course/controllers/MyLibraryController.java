@@ -1,7 +1,7 @@
-package com.hanendra.development.controllers;
+package com.hanendra.development.course.controllers;
 
-import com.hanendra.development.entities.Course;
-import com.hanendra.development.services.CourseService;
+import com.hanendra.development.course.modelentities.Course;
+import com.hanendra.development.course.services.CourseService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

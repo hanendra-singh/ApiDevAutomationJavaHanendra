@@ -17,7 +17,7 @@
     <modules>
         <module>hanendra-development</module>
 <!--        <module>hanendra-common</module>-->
-<!--        <module>hanendra-automation</module>-->
+        <module>hanendra-automation</module>
     </modules>
 
     <properties>

@@ -1,4 +1,4 @@
-package com.hanendra.development.entities;
+package com.hanendra.development.course.modelentities;
 
 public class Course {
 

@@ -1,6 +1,6 @@
-package com.hanendra.development.services;
+package com.hanendra.development.course.services;
 
-import com.hanendra.development.entities.Course;
+import com.hanendra.development.course.modelentities.Course;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
