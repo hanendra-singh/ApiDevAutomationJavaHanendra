@@ -15,6 +15,7 @@ public class CourseServiceTests {
     courseService = new CourseServiceImpl();
   }
 
+
   @Test
   public void testGetCourse(){
     System.out.println(courseService.getCourse(100).getCourseDescription());
